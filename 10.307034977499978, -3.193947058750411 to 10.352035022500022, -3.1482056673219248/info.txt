@@ -1,0 +1,25 @@
+Start lat/lon_1: 10.307034977499978, -3.193947058750411
+End lat/lon_1: 10.352035022500022, -3.1482056673219248
+Time inserted_1: 16/08/2022 14:23:02
+Area covered_1: 24998210.76m^2
+Address_1: Gaoua, Poni, Sud-Ouest, Burkina Faso
+Start lat/lon_2: 11.299926977499977, -12.308921809741454
+End lat/lon_2: 11.344927022500022, -12.263028581721551
+Time inserted_2: 16/08/2022 14:23:02
+Area covered_2: 24998034.43m^2
+Address_2: Koulidara, Labé, Labé-Centre, Préfecture de Labé, Labé, Guinée
+Start lat/lon_3: 14.029247995499995, -0.03829735692297222
+End lat/lon_3: 14.038248004500003, -0.02902046095913578
+Time inserted_3: 16/08/2022 14:23:02
+Area covered_3: 999980.37m^2
+Address_3: Dori, Séno, Sahel, Burkina Faso
+Start lat/lon_4: 16.264132990999993, -0.043781196873741934
+End lat/lon_4: 16.28213300900001, -0.025029943317519916
+Time inserted_4: 16/08/2022 14:23:02
+Area covered_4: 3999816.59m^2
+Address_4: Gao, Cercle de Gao, Gao, Mali
+Start lat/lon_5: 9.438119977499978, -5.6508937785631845
+End lat/lon_5: 9.483120022500023, -5.605273236123181
+Time inserted_5: 16/08/2022 14:23:02
+Area covered_5: 24998364.16m^2
+Address_5: Korhogo, Poro, Savanes, Côte d’Ivoire
