@@ -1,0 +1,5 @@
+Start lat/lon: 39.67809996399997, -104.877674940365
+End lat/lon: 39.750100036000035, -104.78407621027638
+Time inserted: 17/08/2022 16:29:44
+Area covered: 63966615.70m^2
+Address: Picnic Shelter, 13600, East Bayaud Avenue, Aurora, Arapahoe County, Colorado, 80012, United States
